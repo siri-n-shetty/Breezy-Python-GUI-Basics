@@ -1,3 +1,4 @@
+#BPG is a class of tkinter 
 from breezypythongui import EasyFrame
 
 class ButtonDemo(EasyFrame):
