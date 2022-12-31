@@ -1,3 +1,4 @@
+#shows coordinates
 from breezypythongui import EasyFrame
 
 class BasicWindow(EasyFrame):
