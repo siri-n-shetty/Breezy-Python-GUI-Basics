@@ -5,3 +5,5 @@ This repository contains a collection of simple programs that demonstrate how to
 The programs are written in Python and use the BreezyPythonGUI library, which is a lightweight GUI toolkit for Python that is easy to use and learn.
 
 Source: Fundamentals of Python - First Programs by Kenneth.A.Lambert
+
+http://kennethalambert.com/breezypythongui/home.html
